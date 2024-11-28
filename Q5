@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Contact</title>
+</head>
+<body>
+    
+    <h2 align="center"><u>Capgemini Contact Information</u></h2>
+    <br>
+    <img align="right" src="https://prod.ucwe.capgemini.com/wp-content/uploads/2023/01/20230109-Appointments_ENG.png" height="350px"/>
+   
+    <ol type="I">
+       <li><strong>Research and Development</strong>
+        <ul type="square">
+            <li>   
+                <p><strong>Phone:</strong> (666) 777-8888</p>
+            </li>
+            <li>
+                <p><strong>Email:</strong> r&d@capgemini.com</p>
+            </li>
+                
+        </ul>
+       </li>
+       <li><strong>IT Department</strong>
+        <ul type="square">
+            <li>
+                <p><strong>Phone:</strong> (444) 555-6666</p>  
+            </li>
+            <li>
+                <p><strong>Email:</strong> it@capgemini.com</p>
+            </li>
+        </ul>
+       
+        
+        <li><strong>Legal Department</strong>
+            <ul type="square">
+                <li>
+                    <p><strong>Phone:</strong> (333) 222-1111</p>
+                </li>
+                <li>
+                    <p><strong>Email:</strong> legal@capgemini.com</p>
+                </li>
+            </ul>   
+        </li>
+        <li><strong>Sales Department</strong>
+            <ul type="square">
+                <li>
+                    <p><strong>Phone:</strong> (123) 456-7890</p>
+                </li>
+                <li>
+                    <p><strong>Email:</strong> sales@capgemini.com</p>
+                </li>
+            </ul>   
+        </li>
+        <li><strong>Customer Support</strong>
+            <ul type="square">
+                <li>
+                    <p><strong>Phone:</strong> (987) 654-3210</p>
+                </li>
+                <li>
+                    <p><strong>Email:</strong> support@capgemini.com</p>
+                </li>
+            </ul>   
+        </li>
+        <li><strong>Human Resources</strong>
+            <ul type="square">
+                <li>
+                    <p><strong>Phone:</strong> (555) 123-4567</p>
+                </li>
+                <li>
+                    <p><strong>Email:</strong> hr@capgemini.com</p>
+                </li>
+            </ul>   
+        </li>
+        <li><strong>Finance Department</strong>
+            <ul type="square">
+                <li>
+                    <p><strong>Phone:</strong> (888) 999-0000</p>
+                </li>
+                <li>
+                    <p><strong>Email:</strong> finance@capgemini.com</p>
+                </li>
+            </ul>
+        </li>
+        <li><strong>Marketing Department</strong>
+            <ul type="square">
+                <li>
+                    <p><strong>Phone:</strong> (777) 888-9999</p>
+                </li>
+                <li>
+                    <p><strong>Email:</strong> marketing@capgemini.com</p>
+                </li>
+            </ul>
+        </li>
+        
+    </ol>
+</body>
+</html>
