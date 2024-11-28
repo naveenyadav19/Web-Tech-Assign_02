@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+</head>
+<body>
+  <h1 align="center"><u>GLA Upcoming Events</u></h1>
+  <br>
+  <ul>
+    <hr>
+    <li>
+      <img align="right" src="/fresher.jpeg" alt="fresher" height="220"/>
+      <h2><font color="brown">Fresher's Party</font></h2>
+      <p>Date: 7th September 2024</p>
+      <p>Description: Join us for a farewell celebration as we bid adieu to our friends.</p>
+    </li>
+    <br><br><br><br><br><br>
+    <hr>
+    
+    <li>
+      <img align="right" src="/tedx.jpeg" alt="fresher" height="200"/>
+      <h2><font color="brown">TEDxGLAU</font></h2>
+      <p>Date: 13th September 2024</p>
+      <p>Description: Experience inspiring talks from thought leaders.</p>
+    </li>
+    <br> <br> <br> <br> <br>
+    <hr>
+    
+  </ul>
+</body>
+</html>
