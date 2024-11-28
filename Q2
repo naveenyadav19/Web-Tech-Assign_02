@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Team Members</title>
+</head>
+<body>
+    <h1 align="center"><font color="blue"><u>Our Team</u></font></h1>
+
+    <br>
+    <center>
+        <img src="https://www.blackbud.co.uk/wp-content/uploads/2021/03/PRINCE2-Project-Management-Teams.jpg" height="150px" alt="Team members"/>
+    </center>
+   
+    <ul>
+        <li>
+            <h2>Siddharth</h2>
+            <p><strong>Role:</strong> Project Manager</p>
+            <p>Responsible for overseeing the project's timeline, budget, and team coordination.</p>
+        </li>
+        <li>
+            <h2>Deepti</h2>
+            <p><strong>Role:</strong> Developer</p>
+            <p>Responsible for coding the application's features and ensuring its functionality.</p>
+        </li>
+        <li>
+            <h2>Sachlendra</h2>
+            <p><strong>Role:</strong> Designer</p>
+            <p>Responsible for creating the visual elements of the project, including the user interface and graphics.</p>
+        </li>
+        <li>
+            <h2>Ruchi Agrawal</h2>
+            <p><strong>Role:</strong> Tester</p>
+            <p>Responsible for identifying and fixing bugs in the application before its release.</p>
+        </li>
+        <li>
+            <h2>Vinod Kumar</h2>
+            <p><strong>Role:</strong> Marketing Specialist</p>
+            <p>Responsible for promoting the project and increasing its visibility.</p>
+        </li>
+        </ul>
+</body>
+</html>
