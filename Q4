@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chole bhature recipe</title>
+</head>
+<body>
+    <h1 align="center"><font color="red">Chole Bhature</font></h1>
+    
+    <section>
+        <h2><font color="brown"><u>Ingredients:</u></font></h2>
+        <img align="right"src="https://th.bing.com/th/id/R.2afb9c6e7c75eced25f4cc6e45e9e1dc?rik=cMIrmnFJvoLzkA&riu=http%3a%2f%2fdilepunjab.com%2fwp-content%2fuploads%2f2017%2f08%2fchole-bhature-1.jpg&ehk=dNycnEaMu52lc3VUWT2ByGeKDgR0V2YuhPKhZSsZ7%2bI%3d&risl=&pid=ImgRaw&r=0" height="450px"/>
+        <h3>For Chole:</h3>
+        <ul>
+            <li>1 cup dried chickpeas (kabuli chana)</li>
+            <li>1 large onion, chopped</li>
+            <li>2 cloves garlic, minced</li>
+            <li>1-inch piece ginger, grated</li>
+            <li>1 teaspoon ground cumin</li>
+            <li>1 teaspoon ground coriander</li>
+            <li>1/2 teaspoon garam masala</li>
+            <li>1/2 teaspoon red chili powder</li>
+            <li>1/4 teaspoon turmeric powder</li>
+            <li>1/4 teaspoon amchur powder</li>
+            <li>1 tablespoon oil</li>
+            <li>1 cup water</li>
+            <li>Salt to taste</li>
+        </ul>
+    
+        <h3>For Bhature:</h3>
+    <ul>
+        <li>1 cup whole wheat flour</li>
+        <li>1/2 cup all-purpose flour</li>
+        <li>1/2 teaspoon yogurt</li>
+        <li>1/4 teaspoon baking soda</li>
+        <li>1/4 teaspoon salt</li>
+        <li>1/4 cup water (adjust as needed)</li>
+        <li>Oil for frying</li>
+    </ul>
+    </section>
+    <section>
+        <h2><font color="brown"><u>Instructions:</u></font></h2>
+        
+    <h3>For Chole:</h3>
+    <ol>
+        <li>Soak chickpeas overnight in water.</li>
+        <li>Drain and rinse chickpeas.</li>
+        <li>In a pressure cooker, add chickpeas, onion, garlic, ginger, cumin, coriander, garam masala, red chili powder, turmeric, amchur, oil, water, and salt.</li>
+        <li>Cook for 2-3 whistles or until chickpeas are tender.</li>
+        <li>Let the pressure release naturally.</li>
+        <li>Mash some of the chickpeas to thicken the gravy.</li>
+    </ol>
+    <h3>For Bhature:</h3>
+    <ol>
+        <li>Mix whole wheat flour, all-purpose flour, yogurt, baking soda, salt, and water in a bowl.</li>
+        <li>Knead into a dough.</li>
+        <li>Rest the dough for 30 minutes.</li>
+        <li>Roll out the dough into small circles.</li>
+        <li>Fry the circles in hot oil until golden brown and puffed up.</li>
+    </ol>
+    </section>
+    <br>
+    
+    <p align="center"><font color="brown">Serve hot chole with bhature.😋</font></p>
+</body>
+</html>
